@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @dhirajgite
+- 👀 I’m interested in AI, ML and Data Science
